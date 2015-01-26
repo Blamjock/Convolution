@@ -1,0 +1,10 @@
+Base path: C:/Program Files (x86)/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-1-2552
+Cmd: getPlatforms
+Cmd: preprocess
+  insize=3322 outsize=1506 ok=1
+Cmd: compileSnippet
+  error: 2 plat 4 at (85): 'vert': output parameter 'o' not completely initialized
+  error: 1 plat 4 at (124): implicit truncation of vector type
+  error: 1 plat 4 at (125): implicit truncation of vector type
+  api=4 type=0 insize=7214 outsize=0 kw=DIRECTIONAL SHADOWS_OFF LIGHTMAP_OFF DIRLIGHTMAP_OFF ok=0
